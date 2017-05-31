@@ -1,0 +1,23 @@
+#p1{border: 5px purple outset; width:450px; height:25%;}
+#band,#p2{text-decoration:underline; color:red;}
+#p3{color:orange;}
+#p4{color:yellow;}
+#p5{color:green;}
+#p6{color:blue;}
+span{color:purple;}
+th{font-style:italic; color:orange}
+tr.song{font-style:italic;}
+.song{color:purple;} 
+
+ul{font-style:italic;}
+
+	
+#albumtitle{font-family:"Baloo Thambi", fantasy;}
+
+@font-face {
+	font-family:bandfont; 
+	src:url(Blazed.ttf);}
+#band{font-family: "bandfont", fantasy;}
+
+tbody{background-color:lawngreen;}
+
